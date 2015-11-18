@@ -97,7 +97,7 @@ class Refresher(object):
       SourceRepository('rush', 'spinnaker'),
       SourceRepository('echo', 'spinnaker'),
       SourceRepository('rosco', 'rogerswingle'),
-      SourceRepository('gate', 'spinnaker'),
+      SourceRepository('gate', 'rogerswingle'),
       SourceRepository('igor', 'spinnaker'),
       SourceRepository('deck', 'spinnaker')]
 
