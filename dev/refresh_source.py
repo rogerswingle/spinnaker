@@ -90,13 +90,13 @@ class Refresher(object):
 
   __OPTIONAL_REPOSITORIES = [SourceRepository('citest', 'google')]
   __REQUIRED_REPOSITORIES = [
-      SourceRepository('spinnaker', 'spinnaker'),
-      SourceRepository('clouddriver', 'spinnaker'),
+      SourceRepository('spinnaker', 'rogerswingle'),
+      SourceRepository('clouddriver', 'rogerswingle'),
       SourceRepository('orca', 'spinnaker'),
       SourceRepository('front50', 'spinnaker'),
       SourceRepository('rush', 'spinnaker'),
       SourceRepository('echo', 'spinnaker'),
-      SourceRepository('rosco', 'spinnaker'),
+      SourceRepository('rosco', 'rogerswingle'),
       SourceRepository('gate', 'spinnaker'),
       SourceRepository('igor', 'spinnaker'),
       SourceRepository('deck', 'spinnaker')]
