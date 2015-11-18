@@ -99,7 +99,7 @@ class Refresher(object):
       SourceRepository('rosco', 'rogerswingle'),
       SourceRepository('gate', 'rogerswingle'),
       SourceRepository('igor', 'spinnaker'),
-      SourceRepository('deck', 'spinnaker')]
+      SourceRepository('deck', 'rogerswingle')]
 
   @property
   def pull_branch(self):
